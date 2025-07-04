@@ -67,10 +67,6 @@ Contact-Manager-MERN/
 - `/api/auth` – Authentication routes
 - `/api/contacts` – CRUD operations for contacts
 
-## License
 
-MIT
-
----
 
 Feel free to customize this README for your project's specific features and instructions!
